@@ -56,8 +56,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-    cd nome-do-repositorio
+    git clone https://github.com/kaikinattandossantos/Disparador_de_email.git
+    cd Disparador_de_email.git
     ```
 
 2.  **Configure as variáveis de ambiente:**
